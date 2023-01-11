@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/vendor_qcom_opensource_power
+defaultbranch=android13
